@@ -4,4 +4,4 @@
 ScanSitemap.egg-info
 dist
 build
-
+*.pyc
