@@ -6,7 +6,7 @@ Created on Jul 14, 2014
 from scansitemap import Scanner
 
 def main():
-    scan = Scanner('http://landmarqtreeservice.com/sitemap/','page')
+    scan = Scanner('http://site.com/sitemap/','page')
     scan.run()
 
 if __name__ == '__main__':
